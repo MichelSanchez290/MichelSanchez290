@@ -1,7 +1,4 @@
-<p align="center" width="300">
-   <img style="border-radius: 5px 30px 45px 60px" align="center" width="200" src="https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/313866630_3332172430396724_1217620627623228008_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF7CNRbTDZPClLxR35ApkI1q-cyOOpza8ur5zI46nNry2zsSUH8Er46gvSwCJk3SpZZv-bk9hSv4OGnI0yaYTe5&_nc_ohc=G2e5P5Kp76MAX9PA6Q8&_nc_ht=scontent-qro1-1.xx&oh=00_AfC1okKUUeTT3Trty-lhbX0pjnXopXDenRg3oh3xM3xvPA&oe=6459A187"/>
-   <h3 align="center">¡Hola 👋! Soy Michelle Sanchez Miranda 👨🏻‍💻</h3>
-</p>
+<h1 align="center">¡Hola 👋! Soy Michelle Sanchez Miranda 👨</h1>
 <h3 align="center">Soy una desarrolladora Frontend y Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelsanchez290&label=Profile%20views&color=0e75b6&style=flat" alt="michelsanchez290" /> </p>
