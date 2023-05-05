@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola 👋! Soy Michelle Sanchez Miranda 👨</h1>
+<h1 align="center">¡Hola 👋! Soy Michelle Sanchez Miranda 👩‍💻</h1>
 <h3 align="center">Soy Desarrolladora Frontend y Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelsanchez290&label=Profile%20views&color=0e75b6&style=flat" alt="michelsanchez290" /> </p>
