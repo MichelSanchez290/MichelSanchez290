@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola 👋! Soy Michelle Sanchez Miranda</h1>
+<h1 align="center">¡Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ! Soy Michelle Sanchez Miranda</h1>
 <h3 align="center">Desarrolladora Frontend & Backend 👩‍💻</h3>
 
 <p align="center">
