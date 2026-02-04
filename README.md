@@ -11,6 +11,7 @@
 ✨ Apasionada por el desarrollo web  
 ✨ Frontend & Backend  
 ✨ Laravel · PHP · JavaScript · Python
+<br>
 ✨ Siempre aprendiendo 🚀  
 
 ---
